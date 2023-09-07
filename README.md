@@ -29,20 +29,3 @@ This repository provides a collection of basic Linux commands and their usage. I
 
 **Usage:**
 Each command in this repository is documented with its description and usage examples. Please refer to the individual command files for more information.
-
-**Contributing:**
-If you'd like to contribute to this project by adding more commands or improving existing ones, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your changes: 
-```
-git checkout -b feature/new-command
-```
-3. Make your changes and commit them:
-```
-git commit -m "Add new command"
-```
-4. Push your changes to your forked repository:
-```
-git push origin feature/new-command
-```
-5. Open a pull request on the main repository to merge your changes.
